@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\bin\Debug\yüzde bülma.exe.config
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\bin\Debug\yüzde bülma.exe
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\bin\Debug\yüzde bülma.pdb
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\obj\Debug\yüzde bülma.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\obj\Debug\yüzde bülma.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\obj\Debug\yüzde bülma.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\obj\Debug\yüzde bülma.exe
+C:\Users\UMUT TÜRK\Desktop\banka\yüzde bülma\yüzde bülma\obj\Debug\yüzde bülma.pdb
